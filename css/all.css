@@ -10437,13 +10437,10 @@ header .header-info p {
 }
 /*# sourceMappingURL=all.css.map */
 
-.fix-button{
+.fix-button a{
   position: fixed;
   top: 50%;
   right: 0;
-}
-
-.fix-button a{
   background: #993330;
   writing-mode:vertical-lr;
   color:#fff;

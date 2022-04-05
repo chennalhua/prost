@@ -10436,3 +10436,18 @@ header .header-info p {
   display: block;
 }
 /*# sourceMappingURL=all.css.map */
+
+.fix-button{
+  position: fixed;
+  top: 50%;
+  right: 0;
+}
+
+.fix-button a{
+  background: #993330;
+  writing-mode:vertical-lr;
+  color:#fff;
+  text-decoration: none;
+  padding: 10px;
+  letter-spacing: 4px;
+}
